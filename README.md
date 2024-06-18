@@ -20,6 +20,6 @@ or ethical standards when using these scripts and the contents of this repositor
 
 - [Tools and Useful Links](/pages/tools-links.md)
 - [Information Gathering](/pages/information-gathering.md)
-- [Threat Modeling](#threat-modeling.md)
-- [Vulnerability Scan](#vulnerability-scan.md)
-- [Web Application Security](#web-application-security.md)
+- [Threat Modeling](/pages/threat-modeling.md)
+- [Vulnerability Scan](/pages/vulnerability-scan.md)
+- [Web Application Security](/pages/web-application-security.md)
