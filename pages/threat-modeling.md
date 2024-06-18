@@ -1,11 +1,11 @@
-# Threat Modeling
+# ♟️ Threat Modeling
 
 It is a systematic approach to identifying, prioritising and addressing potential security threats across the organization, simulating possible attack scenarios and assessing the existing vulnerabilities of the existing systems and applications.
 
 > Threat Modeling aims to reduce an organization’s overall risk exposure by identifying vulnerabilities and potential attack vectors, allowing for adequate security controls and strategies.
 > 
 
-## Building a Threat Modeling Report
+## 📝 Building a Threat Modeling Report
 
 To build a comprehensive Threat Modeling report, follow these steps:
 
@@ -17,7 +17,7 @@ To build a comprehensive Threat Modeling report, follow these steps:
 6. **Security Controls:** Recommend and implement appropriate security controls to mitigate the identified risks. This can include implementing access controls, encryption, and intrusion detection systems.
 7. **Report Documentation:** Document all the findings, recommendations, and actions taken in a comprehensive Threat Modeling report. This report should be easily understandable by stakeholders and provide clear guidance on improving the security posture.
 
-## Threat Modeling Diagram
+## ⚠️ Threat Modeling Diagram
 
 A Threat Modeling diagram visually represents the various components of a system and the potential threats and vulnerabilities associated with each component. It helps in understanding the attack surface and identifying potential risks.
 
