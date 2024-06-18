@@ -18,7 +18,7 @@ or ethical standards when using these scripts and the contents of this repositor
 
 ## Table of Contents
 
-- [Tools and Useful Links](#tools-links.md)
+- [Tools and Useful Links](/pages/tools-links.md)
 - [Information Gathering](#information-gathering.md)
 - [Threat Modeling](#threat-modeling.md)
 - [Vulnerability Scan](#vulnerability-scan.md)
