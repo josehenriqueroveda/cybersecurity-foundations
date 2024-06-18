@@ -6,9 +6,14 @@ This repository is a shared knowledge base on cybersecurity and the main methods
 
 ### Disclaimer
 ```http
-It is important to note that the scripts in this repository are intended for educational purposes only. 
+It is important to note that the scripts in this repository
+are intended for educational purposes only. 
 
-The author do not condone the use of these scripts for malicious purposes, and will not be held responsible for any actions taken by individuals who use them for illegal or unethical purposes. It is the responsibility of the user to ensure that they are not violating any laws or ethical standards when using these scripts and the contents of this repository.
+The author do not condone the use of these scripts for malicious purposes,
+and will not be held responsible for any actions taken by individuals
+who use them for illegal or unethical purposes.
+It is the responsibility of the user to ensure that they are not violating any laws
+or ethical standards when using these scripts and the contents of this repository.
 ```
 
 ## Table of Contents
