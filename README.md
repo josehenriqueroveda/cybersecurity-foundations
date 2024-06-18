@@ -13,7 +13,7 @@ The author do not condone the use of these scripts for malicious purposes, and w
 
 ## Table of Contents
 
-- [Tools and Useful Links](#tools-links.md)
+- [Tools and Useful Links](/pages/tools-links.md)
 - [Information Gathering](#information-gathering.md)
 - [Threat Modeling](#threat-modeling.md)
 - [Vulnerability Scan](#vulnerability-scan.md)
