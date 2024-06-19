@@ -4,7 +4,7 @@
 
 It’s the process to prove the identity of someone or something, by a password, fingerprint, token, etc.
 
-### Authentitcation Factors:
+## 🕵🏻‍♂️ Authentitcation Factors:
 
 - **Knowledge Factor**: It’s something that you know. (*eg. password, security questions answers*)
 - **Possession Factor**: It’s something that you have. (*eg. cellphone, physical token*)

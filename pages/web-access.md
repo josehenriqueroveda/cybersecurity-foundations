@@ -6,7 +6,7 @@ It is to establish limitations on individuals or entities that are authorized to
 
 In web it depends on **authentication** and **session management**.
 
-### Types of access control:
+## 🚷 Types of access control:
 
 - **Vertical access controls**: Different types of users have access to different functions within an application.
 - **Horizontal access controls**: Different users have access to the same type of functions within an application.

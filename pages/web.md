@@ -86,7 +86,3 @@ It is a nonprofit foundation that provides guidance on how to develop, purchase 
 | ⚠️ Cause | 💣 Consequence | 🛡️ Mitigation |
 | --- | --- | --- |
 | The application interacts with the URL without validation. | Port scanning, captures information from other sources. | Validate inputs, create whitelists, and separate the application environment. |
-
-[Web - Authentication](/pages/web-auth.md)
-
-[Web - Access Control](/pages/web-access.md)
