@@ -58,5 +58,13 @@ or ethical standards when using these scripts and the contents of this repositor
     - [Authentication Factors](/pages/web-auth.md#-authentitcation-factors)
     - [Burp Suite: User Enumeration](/pages/web-auth.md#-burp-suite---user-enumeration)
     - [Burp Suite: Brute Force](/pages/web-auth.md#-burp-suite---brute-force)
+- ### [Command Injection](/pages/command-injection.md)
+    - [Blind Command injection](/pages/command-injection.md#-blind-command-injection)
+    - [Mitigation](/pages/command-injection.md#️-mitigation)
+- ### [SQL Injection](/pages/sql-injection.md)
+    - [Error Based](/pages/sql-injection.md#-error-based)
+    - [Union Based](/pages/sql-injection.md#-union-based)
+    - [Blind SQL](/pages/sql-injection.md#-blind-sql)
+    - [Mitigation](/pages/sql-injection.md#️-mitigation)
 
 
