@@ -20,15 +20,10 @@ or ethical standards when using these scripts and the contents of this repositor
 
 ## Table of Contents
 
-- ### [Tools and Useful Links](/pages/tools-links.md)
-    - [Information gathering](/pages/tools-links.md#-information-gathering)
-    - [Infra mapping](/pages/tools-links.md#️-infra-mapping)
-    - [Web](/pages/tools-links.md#-web)
-    - [Password attacks](/pages/tools-links.md#-password-attacks)
-    - [Android](/pages/tools-links.md#-android)
-    - [Exploit](/pages/tools-links.md#-exploit)
-    - [Windows and AD](/pages/tools-links.md#-windows-and-ad)
-    - [Linux](/pages/tools-links.md#-linux)
+- ### [Basic Principles](/pages/principles.md)
+    - [The triad](/pages/principles.md#-the-triad)
+    - [Information security policies](/pages/principles.md#️-information-security-policies)
+    - [Authentication and access control](/pages/principles.md#-authentication-and-access-control)
 - ### [Information Gathering](/pages/information-gathering.md)
     - [Passive reconnaissance](/pages/information-gathering.md#-passive-reconnaissance)
     - [whois](/pages/information-gathering.md#-whois)
@@ -68,3 +63,13 @@ or ethical standards when using these scripts and the contents of this repositor
     - [Mitigation](/pages/sql-injection.md#️-mitigation)
 
 
+---
+- ### [Tools and Useful Links](/pages/tools-links.md)
+    - [Information gathering](/pages/tools-links.md#-information-gathering)
+    - [Infra mapping](/pages/tools-links.md#️-infra-mapping)
+    - [Web](/pages/tools-links.md#-web)
+    - [Password attacks](/pages/tools-links.md#-password-attacks)
+    - [Android](/pages/tools-links.md#-android)
+    - [Exploit](/pages/tools-links.md#-exploit)
+    - [Windows and AD](/pages/tools-links.md#-windows-and-ad)
+    - [Linux](/pages/tools-links.md#-linux)
