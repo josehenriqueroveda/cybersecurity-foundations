@@ -20,10 +20,17 @@ or ethical standards when using these scripts and the contents of this repositor
 
 ## Table of Contents
 
-- ### [Basic Principles](/pages/principles.md)
+- ### [Cybersecurity Principles](/pages/principles.md)
     - [The triad](/pages/principles.md#-the-triad)
     - [Information security policies](/pages/principles.md#️-information-security-policies)
     - [Authentication and access control](/pages/principles.md#-authentication-and-access-control)
+- ### [Network](/pages/network.md)
+    - [Types of Networks](/pages/network.md#-types-of-networks)
+    - [Network topologies](/pages/network.md#-network-topologies)
+    - [Network Devices and Concepts](/pages/network.md#️-network-devices-and-concepts)
+    - [OSI](/pages/network.md#-osi)
+    - [TCP/IP](/pages/network.md#-tcpip-5-layers)
+    - [Network Protocols](/pages/protocols.md)
 - ### [Information Gathering](/pages/information-gathering.md)
     - [Passive reconnaissance](/pages/information-gathering.md#-passive-reconnaissance)
     - [whois](/pages/information-gathering.md#-whois)

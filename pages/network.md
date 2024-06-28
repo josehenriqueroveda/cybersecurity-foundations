@@ -1,4 +1,4 @@
-# 🛜 Computer Networks
+# 🛜 Network
 
 Computer networks are a collection of computers connected together to share resources such as files, printers and Internet access. They are essential for communication and collaboration between people all over the world.
 
@@ -67,7 +67,7 @@ It is an approach that aims to virtualize and disaggregate network functions tra
 IBN is an approach to networking that focuses on the intent of the user or administrator, rather than manually configuring network devices. With IBN, policies are defined at a high level of abstraction and the network is automatically configured to meet these intentions, increasing automation, simplifying operations and reducing human error.
 
 
-## OSI and TCP/IP
+## 📦 OSI
 
 The **OSI (Open Systems Interconnection)** model is divided into seven layers, each with its own specific function.
 
@@ -80,3 +80,18 @@ The **OSI (Open Systems Interconnection)** model is divided into seven layers, e
 
 - **Network layer**: the network layer is responsible for routing data on the network. It defines the format of the network addresses and the routing algorithm.
 
+## 📦 TCP/IP (5 layers)
+
+TCP/IP is an open standard that defines the protocols and protocols for communication between devices on a network. It is also commonly used in the context of the Internet.
+
+<img src="imgs/tcp-ip.png" alt="tcp ip model" width="600px">
+
+- **Physical Layer**: Deals with the physical transmission of bits over the physical transmission medium.
+
+- **Data Link Layer**: It transfers data between devices on the same local network, managing access to the medium, error detection, flow control, etc.
+
+- **Network Layer**: It defines the format of the network addresses and the routing algorithm.
+
+- **Transport Layer**: It defines the format of data packets and the mechanism for controlling access to the medium.
+
+- **Application Layer**: It defines the format of the application layer and the protocols for communication between devices on the same network.
