@@ -68,6 +68,7 @@ or ethical standards when using these scripts and the contents of this repositor
     - [Union Based](/pages/sql-injection.md#-union-based)
     - [Blind SQL](/pages/sql-injection.md#-blind-sql)
     - [Mitigation](/pages/sql-injection.md#️-mitigation)
+- ### [Password Attacks](/pages/password-attacks.md)
 
 
 ---
