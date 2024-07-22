@@ -36,7 +36,7 @@ or ethical standards when using these scripts and the contents of this repositor
     - [whois](/pages/information-gathering.md#-whois)
     - [nslookup](/pages/information-gathering.md#-nslookup)
     - [dig](/pages/information-gathering.md#-dig)
-- [Active reconnaissance](/pages/information-gathering.md#-active-reconnaissance)
+    - [Active reconnaissance](/pages/information-gathering.md#-active-reconnaissance)
     - [ping](/pages/information-gathering.md#-ping)
     - [traceroute](/pages/information-gathering.md#-traceroute)
     - [telnet](/pages/information-gathering.md#-telnet)
